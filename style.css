@@ -1,0 +1,39 @@
+h3:first-child{
+    color: pink;
+}
+#greycol{
+    color:grey 
+}
+.text-box>div>p{
+    color: red;
+}
+div~p{
+    color: green;
+}
+.yellow{ 
+    color: yellow;
+}
+tr:nth-child(1){
+    color: rgb(97, 19, 193);
+}
+tr:nth-child(2){
+    color: yellowgreen;
+}
+tr:nth-child(3){
+    color: indigo;
+}
+tr:nth-child(4){
+    color: olive;
+}
+tr:nth-child(5){
+    color: midnightblue;
+}
+tr:nth-child(6){
+    color: lightsteelblue;
+}
+tr:nth-child(7){
+    color: mediumseagreen;
+}
+tr:nth-child(8){
+    color: rgb(150, 150, 30);
+}
